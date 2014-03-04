@@ -1,0 +1,13 @@
+#pragma once
+#include "HKKernelDbg.h"
+#include "Struct.h"
+#include "stdlib.h"
+#include "stdio.h"
+#include "Struct.h"
+#include "CallInKernel.h"
+#include "DbgOut.h"
+#include "DriverCtrl.h"
+#include "shlwapi.h"
+#include "GetFuncOffsetSSDT.h"
+#include "InLineHookR3.h"
+#pragma comment(lib,"shlwapi.lib")

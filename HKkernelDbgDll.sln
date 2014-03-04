@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HKkernelDbgDll", "HKkernelDbgDll\HKkernelDbgDll.vcproj", "{10EC3C02-CFF0-4FE5-ABA2-3F19B62D2B0F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HKKernelDbgSys", "HKKernelDbgSys\HKKernelDbgSys.vcproj", "{CB51A397-F700-4BF9-9CC9-376B56A33333}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10EC3C02-CFF0-4FE5-ABA2-3F19B62D2B0F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{10EC3C02-CFF0-4FE5-ABA2-3F19B62D2B0F}.Debug|Win32.Build.0 = Debug|Win32
+		{10EC3C02-CFF0-4FE5-ABA2-3F19B62D2B0F}.Release|Win32.ActiveCfg = Release|Win32
+		{10EC3C02-CFF0-4FE5-ABA2-3F19B62D2B0F}.Release|Win32.Build.0 = Release|Win32
+		{CB51A397-F700-4BF9-9CC9-376B56A33333}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CB51A397-F700-4BF9-9CC9-376B56A33333}.Debug|Win32.Build.0 = Debug|Win32
+		{CB51A397-F700-4BF9-9CC9-376B56A33333}.Release|Win32.ActiveCfg = Release|Win32
+		{CB51A397-F700-4BF9-9CC9-376B56A33333}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
